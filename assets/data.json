@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Patcharaphol Fongsamut",
+        "email": "patcharaphol2546@gmail.com",
+        "password": "12345",
+        "gender": "Male"
+      }
+    ]
+  }
+  
